@@ -125,6 +125,6 @@ I'm a software developer from Brazil
 
 ###
 
-<img src="https://raw.githubusercontent.com/talitavaleria/talitavaleria/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/talitavaleria/talitavaleria/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
