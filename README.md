@@ -15,7 +15,6 @@ I'm a software developer from Brazil
 
 <!-- END About Me -->
 
-
 <!-- INIT Social -->
 
 <h4 align="left">Connect with me</h4>
